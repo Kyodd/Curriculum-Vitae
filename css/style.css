@@ -73,11 +73,13 @@
   }
   
   .portait{
-    border-radius: 50%;
+    border-radius: 500px;
     max-width: 150px;
+    width: 150px;
     margin: auto;
     display: block;
     margin-bottom: 50px;
+
   }
   
   .skills{
